@@ -1,2 +1,2 @@
-model_name: LogRegWineModel
+model_name: wq_LogRegWineModel
 model_version: '1'
